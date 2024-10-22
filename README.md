@@ -23,7 +23,7 @@ User authentication (login/sign-up)
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/imageHub.git
+   git clone https://github.com/Varun0191/imageHub.git
 2. **Navigate into the project directory:**
    ```bash
    cd imageHub
