@@ -32,4 +32,4 @@ User authentication (login/sign-up)
    npm i
 4. **Start server**
    ```bash
-   ```npm run start
+   npm run start
